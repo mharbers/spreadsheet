@@ -1,0 +1,7 @@
+{
+    "name": "mharbers/spreadsheet",
+    "description": "Spreadsheet reader for Port",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.0"
+    }
+}
